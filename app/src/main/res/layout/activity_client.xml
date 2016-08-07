@@ -23,5 +23,22 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_marginTop="175dp" />
+    <Button
+        android:id="@+id/buttonObj"
+        android:layout_width="80px"
+        android:layout_height="wrap_content"
+        android:text="選擇檔案"
+        android:layout_x="5px"
+        android:layout_y="5px"
+        android:layout_marginTop="100dp"
+        />
+    <ImageView
+        android:id="@+id/imageViewObj"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="10px"
+        android:layout_y="70px"
+        android:layout_marginTop="240dp"/>
+        />
 
 </RelativeLayout>
